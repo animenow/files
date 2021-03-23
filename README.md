@@ -1,0 +1,2 @@
+# files
+STATIC CSS AND JS FILES 
